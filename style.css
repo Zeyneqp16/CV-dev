@@ -18,3 +18,9 @@ img {
     max-width: 100%; /* Resim asla bulunduğu kaptan daha geniş olmaz */
     height: auto;    /* Resim kendi oranını korur */
 }
+.map-container {
+    margin: 20px 0;
+    width: 100%;
+    overflow: hidden;
+}
+
